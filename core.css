@@ -3,9 +3,9 @@
     --background: url('https://cdn.discordapp.com/attachments/551745598399840266/738093946840023070/sa.png');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: rgba(52,114,20,1);
+    --primary2-colour: rgba(52,114,20,0.5);
+    --primary3-colour: rgba(52,114,20,0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
